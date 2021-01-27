@@ -7,15 +7,19 @@
 张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。  
 [.Xin博客](https://www.zhangkai.xin/) [RSS订阅](https://www.zhangkai.xin/atom.xml)  
 
-<script> 
-	var online= new Array(); 
-</script> 
-<script src="http://webpresence.qq.com/getonline?Type=1&1145232806:"></script> 
-<script> 
-	if(online[0]==0) 
-		document.write("<a target='_blank' href='http://sighttp.qq.com/authd?IDKEY=950ae6bebc382b5f992bb615a23334fb90cbfae4201b1473'><img border='0'  src='/pic/offline_qq_1.png' alt='发送QQ离线留言' title='发送QQ离线留言'/></a>"); 
-	else 
-		document.write("<a target='_blank' href='http://sighttp.qq.com/authd?IDKEY=950ae6bebc382b5f992bb615a23334fb90cbfae4201b1473'><img border='0'  src='/pic/qq_1.png' alt='与我进行QQ交谈' title='与我进行QQ交谈'/></a>"); 
-</script>
-
 Email: contact@zhangkai.xin
+
+![](https://acg.zhangkai.xin/acgurl.php)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Peter__Matthew__-2aa9e0.svg?logo=Twitter&longCache=true&style=social)](https://twitter.com/Peter_Matthew_)
+[![Facebook](https://img.shields.io/badge/Facebook-张开昕-3b5998.svg?logo=Facebook&longCache=true&style=social)](https://www.facebook.com/profile.php?id=100011837585349)
+[![YouTube](https://img.shields.io/badge/YouTube-WilliamPeterMatthew-ff0000.svg?logo=YouTube&longCache=true&style=social)](https://www.youtube.com/channel/UC5bVJtvNLuSZGlULitP5y9Q)
+[![Twitch](https://img.shields.io/badge/Twitch-WilliamPeterMatthew-6441a4.svg?logo=Twitch&longCache=true&style=social)](https://www.twitch.tv/williampetermatthew)
+[![GitHub](https://img.shields.io/badge/GitHub-WilliamPeterMatthew-333333.svg?logo=GitHub&longCache=true&style=social)](https://github.com/WilliamPeterMatthew)
+[![Sina Weibo](https://img.shields.io/badge/Sina_Weibo-WilliamPeterMatthew-e6162d.svg?logo=Sina-Weibo&longCache=true&style=social)](http://weibo.com/WilliamPeterMatthew)
+[![Tencent QQ](https://img.shields.io/badge/Tencent_QQ-纸壳箱-eb1923.svg?logo=Tencent-QQ&longCache=true&style=social)](http://wpa.qq.com/msgrd?V=3&Uin=1145232806)
+[![WeChat](https://img.shields.io/badge/WeChat-纸壳箱-7bb32e.svg?logo=WeChat&longCache=true&style=social)](https://u.wechat.com/EB5lXuIJto8f_6bK4kAoWQ0)
+[![DingTalk](https://img.shields.io/badge/DingTalk-张开昕-3296fa.svg?longCache=true&style=social)](https://h5.dingtalk.com/zproject/profile.html?fr_source=13&profile=%40kgDOJlUbJw&cardToken=da276fa759)
+[![ZhiHu](https://img.shields.io/badge/ZhiHu-WilliamPeterMatthew-0e67c8.svg?logo=Zhihu&longCache=true&style=social)](https://www.zhihu.com/people/WilliamPeterMatthew)
+[![Bilibili](https://img.shields.io/badge/Bilibili-WilliamPeterMatthew-00a1d6.svg?logo=Bilibili&longCache=true&style=social)](https://space.bilibili.com/22971965)
+[![YouKu](https://img.shields.io/badge/YouKu-WilliamPeterMatthew-0393ff.svg?longCache=true&style=social)](http://i.youku.com/petermatthew)
