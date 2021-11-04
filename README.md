@@ -9,12 +9,8 @@
 
 Email: contact@zhangkai.xin
 
-![](https://acg.zhangkai.xin/acgurl.php)
+![](https://www.zhangkai.xin/pic/bg/background.jpeg)
 
-[![Twitter](https://img.shields.io/badge/Twitter-Peter__Matthew__-2aa9e0.svg?logo=Twitter&longCache=true&style=social)](https://twitter.com/Peter_Matthew_)
-[![Facebook](https://img.shields.io/badge/Facebook-张开昕-3b5998.svg?logo=Facebook&longCache=true&style=social)](https://www.facebook.com/profile.php?id=100011837585349)
-[![YouTube](https://img.shields.io/badge/YouTube-WilliamPeterMatthew-ff0000.svg?logo=YouTube&longCache=true&style=social)](https://www.youtube.com/channel/UC5bVJtvNLuSZGlULitP5y9Q)
-[![Twitch](https://img.shields.io/badge/Twitch-WilliamPeterMatthew-6441a4.svg?logo=Twitch&longCache=true&style=social)](https://www.twitch.tv/williampetermatthew)
 [![GitHub](https://img.shields.io/badge/GitHub-WilliamPeterMatthew-333333.svg?logo=GitHub&longCache=true&style=social)](https://github.com/WilliamPeterMatthew)
 [![Sina Weibo](https://img.shields.io/badge/Sina_Weibo-WilliamPeterMatthew-e6162d.svg?logo=Sina-Weibo&longCache=true&style=social)](http://weibo.com/WilliamPeterMatthew)
 [![Tencent QQ](https://img.shields.io/badge/Tencent_QQ-纸壳箱-eb1923.svg?logo=Tencent-QQ&longCache=true&style=social)](http://wpa.qq.com/msgrd?V=3&Uin=1145232806)
