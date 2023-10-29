@@ -17,5 +17,3 @@ Email: contact@zhangkai.xin
 [![WeChat](https://img.shields.io/badge/WeChat-纸壳箱-7bb32e.svg?logo=WeChat&longCache=true&style=social)](https://u.wechat.com/EB5lXuIJto8f_6bK4kAoWQ0)
 [![DingTalk](https://img.shields.io/badge/DingTalk-张开昕-3296fa.svg?longCache=true&style=social)](https://h5.dingtalk.com/zproject/profile.html?fr_source=13&profile=%40kgDOJlUbJw&cardToken=da276fa759)
 [![ZhiHu](https://img.shields.io/badge/ZhiHu-WilliamPeterMatthew-0e67c8.svg?logo=Zhihu&longCache=true&style=social)](https://www.zhihu.com/people/WilliamPeterMatthew)
-[![Bilibili](https://img.shields.io/badge/Bilibili-WilliamPeterMatthew-00a1d6.svg?logo=Bilibili&longCache=true&style=social)](https://space.bilibili.com/22971965)
-[![YouKu](https://img.shields.io/badge/YouKu-WilliamPeterMatthew-0393ff.svg?longCache=true&style=social)](http://i.youku.com/petermatthew)
