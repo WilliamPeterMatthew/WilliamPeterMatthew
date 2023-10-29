@@ -5,7 +5,7 @@
 ## 我？
 
 张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。  
-[.Xin博客](https://www.zhangkai.xin/) [RSS订阅](https://www.zhangkai.xin/atom.xml)  
+[我的博客](https://www.zhangkai.xin/) [RSS订阅](https://www.zhangkai.xin/atom.xml)  
 
 Email: contact@zhangkai.xin
 
